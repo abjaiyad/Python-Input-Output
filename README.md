@@ -38,7 +38,7 @@ Python-Basic-InputOutput/
 
 ## 🚀 How to Run  
 1. Clone the repository:  
-git clone https://github.com/abjaiyad/Python-Basic-InputOutput.git  
+git clone https://github.com/abjaiyad/Python-Input-Output.git  
 
 2. Navigate to the project folder:  
 cd Python-Basic-InputOutput  
