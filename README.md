@@ -14,8 +14,8 @@ This repository contains beginner-level Python exercises focused on **Basic Inpu
 ### Problem 1  
 Take a user’s name as input and greet them.  
 **Example:**  
-Input: John  
-Output: Hello John, welcome!  
+Input: Amad   
+Output: Hello Amad, welcome!  
 
 ### Problem 2  
 Ask for two numbers and print their **sum**.  
